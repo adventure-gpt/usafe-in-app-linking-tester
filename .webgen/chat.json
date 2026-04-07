@@ -1,0 +1,7 @@
+[
+  {
+    "role": "user",
+    "content": "I want a very simple webpage that has a variety of usafeus:// in app deep link hyperlinks (with the hyperlink text just displaying the same as the link text)\n\nfor now, lets just have these links\nusafeus://\nusafeus://find_help\nusafeus://angel_drink\nusafeus://need_help_now\nusafeus://ad_menu",
+    "timestamp": 1775569341696
+  }
+]
