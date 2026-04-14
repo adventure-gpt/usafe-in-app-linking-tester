@@ -70,6 +70,14 @@ const sections = [
     ],
   },
   {
+    title: 'Plan My Night',
+    links: [
+      'usafeus://plan_it',
+      'usafeus://track_it',
+      'usafeus://check_it',
+    ],
+  },
+  {
     title: 'National Resources Sub-Pages',
     links: [
       'usafeus://campus.national_resources.Sexual_Violence_Resources',
